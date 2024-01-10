@@ -15,8 +15,8 @@ Analyze which features contribute most to the prediction of churn.
 This can help in understanding the factors influencing customer churn.
 3. Data Preprocessing:
 - Data Cleaning:
-Handle missing values through imputation or removal.
-Address outliers appropriately.
+  - Handle missing values through imputation or removal.
+  - Address outliers appropriately.
 - Feature Engineering:
 Create new features that might be indicative of churn.
 Transform categorical variables using one-hot encoding or label encoding.

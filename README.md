@@ -1,5 +1,5 @@
-# Churn_Prediction
-Telecom Customer Churn Prediction
+## Churn_Prediction
+# Telecom Customer Churn Prediction
 
 Predicting telecom customer churn is a crucial task for telecommunications companies as it helps them identify customers who are likely to leave the service. By identifying potential churners, telecom companies can implement targeted retention strategies to reduce customer attrition. Here's a general outline of the steps you can take for telecom customer churn prediction:
 
